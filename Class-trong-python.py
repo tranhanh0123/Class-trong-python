@@ -30,7 +30,7 @@
 
 # class tu_giac():
 #     def __init__(self,a,b,c,d):
-#         self.a = a
+#         self.a = a 
 #         self.b = b
 #         self.c = c
 #         self.d = d
@@ -38,9 +38,9 @@
 #         return self.a+self.b+self.c+self.d
 # class hinh_binh_hanh(tu_giac):
 #     pass
-# chuvihcn = tu_giac(5,9,8,5)
-# print("chu vi hcn là : ",chuvihcn.chuvi())
-# chuvihinhbinhhanh = hinh_binh_hanh(5,8,6,9)
-# print("chu vi hbh là : ",chuvihinhbinhhanh.chuvi())
+# hcn = tu_giac(5,8,6,9)
+# print("chu vi hcn là: ",hcn.chuvi())
+# hbh = hinh_binh_hanh(5,8,9,4)
+# print("chu vi hình bình hành là : ",hbh.chuvi())
 
 
